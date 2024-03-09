@@ -2,3 +2,4 @@
 
 Simple plugin to prepend `**XX:XX - **` to the start of each new line.
 
+[Example](./docs/example.png)
