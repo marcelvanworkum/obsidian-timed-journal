@@ -1,0 +1,9 @@
+{
+	"id": "timed-journal",
+	"name": "Timed Journal",
+	"version": "0.1.0",
+	"minAppVersion": "0.12.0",
+	"description": "A plugin to prepend timestamps to new lines in journal mode.",
+	"author": "Marcel van Workum",
+	"isDesktopOnly": true
+}
